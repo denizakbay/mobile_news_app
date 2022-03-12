@@ -1,4 +1,4 @@
-# haberler_yeni
+# mobil_haber_uygulamasi
 
 A new Flutter project.
 
